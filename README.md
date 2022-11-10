@@ -5,6 +5,10 @@
 ![video](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
 
 
+<p align="center" >
+<img alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+</p>
+
 ## 🚀 Sobre Mi
 Hola mi nombre es Juan David y soy un `Fullstack Developer`, estudiante de la carrera de Ingeniera de Sistemas. `Enfocado en el Desarrollo Web`, conocimientos en las tecnologías como React, Nextjs, para la parte de Frontend, NodeJs, Sequealize, TypeORM, Express para el Backend y PostgreSQL, MongoDB, MySQL para el desarrollo de Base de Datos.
 
