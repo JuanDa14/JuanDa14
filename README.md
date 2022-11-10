@@ -2,7 +2,7 @@
 # Hola, Soy Juan! 👋
 
 <p align="center" >
-<img alt="GIF" src="[https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)" />
+<img alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
 </p>
 
 ## 🚀 Sobre Mi
@@ -48,6 +48,14 @@ Hola mi nombre es Juan David y soy un `Fullstack Developer`, estudiante de la ca
   <a href='https://tailwindcss.com/' target="__blank">
     <img src='https://img.shields.io/badge/tailwind css-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge' />
   </a>
+    &nbsp;
+  <a href='https://styled-components.com/' target="__blank">
+    <img src='https://img.shields.io/badge/styled%20components-38B2AC?logo=styled%20components&logoColor=white&style=for-the-badge&color=gray' />
+  </a>
+      &nbsp;
+  <a href='https://getbootstrap.com/' target="__blank">
+    <img src='https://img.shields.io/badge/Bootstrap-38B2AC?logo=styled%20components&logoColor=white&style=for-the-badge&color=blueviolet' />
+  </a>
 </p>
 
 <h4>Backend</h4>
@@ -56,13 +64,6 @@ Hola mi nombre es Juan David y soy un `Fullstack Developer`, estudiante de la ca
     <img src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge" />
   </a>
   &nbsp;
-  <a href='https://www.mongodb.com/' target="__blank">
-    <img src='https://img.shields.io/badge/mongo db-47A248?logo=mongodb&logoColor=white&style=for-the-badge' />
-  </a>
-  &nbsp;
-  <a href='https://www.mysql.com/' target="__blank">
-  <img src='https://img.shields.io/badge/-Mysql-4479A1?logo=Mysql&logoColor=white&style=for-the-badge'>
-  </a>
   &nbsp;
   <a href='https://www.microsoft.com/es-es/sql-server/' target="__blank">
   <img src='https://img.shields.io/badge/-Sql Server-yellow?logo=Microsoft%20SQL%20Server&logoColor=CC2927&style=for-the-badge'>
@@ -70,11 +71,34 @@ Hola mi nombre es Juan David y soy un `Fullstack Developer`, estudiante de la ca
    &nbsp;
   <a href='https://expressjs.com/' target="__blank">
     <img src="https://img.shields.io/badge/Express-ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" />
+  </a> 
+   &nbsp;
+  <a href='https://www.php.net/' target="__blank">
+    <img src="https://img.shields.io/badge/PHP-38B2AC?logo=phps&logoColor=white&style=for-the-badge&color=gray" />
+  </a> 
+   &nbsp;
+  <a href='https://laravel.com/' target="__blank">
+    <img src="https://img.shields.io/badge/Laravel-38B2AC?logo=Laravel&logoColor=white&style=for-the-badge&color=red" />
+  </a> 
+    &nbsp;
+  <a href='https://graphql.org/' target="__blank">
+    <img src="https://img.shields.io/badge/GraphQL-38B2AC?logo=GraphQL&logoColor=white&style=for-the-badge&color=E535AB" />
+  </a> 
+</p>
+
+<h4>Database</h4>
+<p>
+<a href='https://www.mongodb.com/' target="__blank">
+    <img src='https://img.shields.io/badge/mongo db-47A248?logo=mongodb&logoColor=white&style=for-the-badge' />
   </a>
   &nbsp;
-  <a href='https://sequelize.org/' target="__blank">
-  <img src='https://img.shields.io/badge/-Sequelize-white?logo=Sequelize&logoColor=52B0E7&style=for-the-badge'>
-  </a>  
+  <a href='https://www.mysql.com/' target="__blank">
+  <img src='https://img.shields.io/badge/-Mysql-4479A1?logo=Mysql&logoColor=white&style=for-the-badge'>
+  </a>
+   &nbsp;
+  <a href='https://typeorm.io/' target="__blank">
+  <img src='https://img.shields.io/badge/TypeORM-38B2AC?logo=TypeORM&logoColor=white&style=for-the-badge&color=blue'>
+  </a>
 </p>
 
 ## Actualmente
