@@ -104,8 +104,6 @@ Hola mi nombre es Juan David y soy un `Fullstack Developer`, estudiante de la ca
 
 🤔 Me interesan los proyectos que involucren el desarrollo de software, la creación de aplicaciones web y móviles.
 
-💬 Ask me about...
-
 📫 Contactame por mis redes sociales o correo electronico `ju4ncode@gmail.com`
 
 ⚡️ Dato curioso, Aprendiendo Docker 😎
