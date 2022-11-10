@@ -63,11 +63,6 @@ Hola mi nombre es Juan David y soy un `Fullstack Developer`, estudiante de la ca
   <a href='https://nodejs.org/en/about/' target="__blank">
     <img src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge" />
   </a>
-  &nbsp;
-  &nbsp;
-  <a href='https://www.microsoft.com/es-es/sql-server/' target="__blank">
-  <img src='https://img.shields.io/badge/-Sql Server-yellow?logo=Microsoft%20SQL%20Server&logoColor=CC2927&style=for-the-badge'>
-  </a>
    &nbsp;
   <a href='https://expressjs.com/' target="__blank">
     <img src="https://img.shields.io/badge/Express-ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" />
