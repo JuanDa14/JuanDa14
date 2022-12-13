@@ -97,7 +97,7 @@ Hola mi nombre es Juan David y soy un `Fullstack Developer`, estudiante de la ca
 </p>
 
 ## Actualmente
-👩‍💻 Estoy en busca de trabajo como `Desarrollador Web`
+👩‍💻 Estoy en busca de trabajo como `Desarrollador`
 
 🧠 Me emociona aprender cosas nuevas por lo que constantemente estoy en aprendizaje.
 
