@@ -79,6 +79,10 @@ Hola mi nombre es Juan David y soy un `Fullstack Developer`, estudiante de la ca
   <a href='https://graphql.org/' target="__blank">
     <img src="https://img.shields.io/badge/GraphQL-38B2AC?logo=GraphQL&logoColor=white&style=for-the-badge&color=E535AB" />
   </a> 
+  &nbsp;
+  <a href='https://nestjs.com/' target="__blank">
+    <img src="https://img.shields.io/badge/Nestjs-38B2AC?logo=Nestjs&logoColor=white&style=for-the-badge&color=E0234E" />
+  </a> 
 </p>
 
 <h4>Database</h4>
@@ -100,7 +104,6 @@ Hola mi nombre es Juan David y soy un `Fullstack Developer`, estudiante de la ca
 👩‍💻 Estoy en busca de trabajo como `Desarrollador`
 
 🧠 Me emociona aprender cosas nuevas por lo que constantemente estoy en aprendizaje.
-
 
 🤔 Me interesan los proyectos que involucren el desarrollo de software, la creación de aplicaciones web y móviles.
 
