@@ -2,7 +2,7 @@
 # Hola, Soy Juan! 👋
 
 <p align="center" >
-<img alt="GIF" src="/perfil_gif.gif" />
+<img alt="GIF" src="/public/perfil_gif.gif" />
 </p>
 
 ## 🚀 Sobre Mi
