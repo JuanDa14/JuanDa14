@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre Mi
 Hola mi nombre es Juan David y soy un `Fullstack Developer`, estudiante de la carrera de Ingeniera de Sistemas. Mis puntos fuertes son en el uso de tecnologías como 
-React, NextJs, Express, NodeJs, NestJs, MongoDB Y MySQL
+Typescript, React, NextJs, Express, NodeJs, NestJs, MongoDB Y MySQL
 
 ## 🛠 Skills
 
