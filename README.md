@@ -98,7 +98,7 @@ Typescript, React, NextJs, Express, NodeJs, NestJs, MongoDB Y MySQL
 </p>
 
 ## Actualmente
-👩‍💻 Trabajo como `Desarrollador de modulos` para la empresa FMSAC
+👩‍💻 Trabajo como `Desarrollador de módulos` para la empresa FMSAC.
 
 🧠 Estoy siempre dispuesto a aprender nuevas tecnologías y a afrontar nuevos desafíos laborales que me permitan seguir creciendo profesionalmente.
 
@@ -110,7 +110,7 @@ Typescript, React, NextJs, Express, NodeJs, NestJs, MongoDB Y MySQL
 
 
 ## 🔗 Links
-[![portafolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juandevelop.com)
+[![portafolio](https://img.shields.io/badge/mi_portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juandevelop.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-morales-paredes-617342224/)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ju4n.code/)
 
