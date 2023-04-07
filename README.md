@@ -95,9 +95,6 @@ Typescript, React, NextJs, Express, NodeJs, NestJs, MongoDB Y MySQL
   <img src='https://img.shields.io/badge/-Mysql-4479A1?logo=Mysql&logoColor=white&style=for-the-badge'>
   </a>
    &nbsp;
-  <a href='https://typeorm.io/' target="__blank">
-  <img src='https://img.shields.io/badge/TypeORM-38B2AC?logo=TypeORM&logoColor=white&style=for-the-badge&color=blue'>
-  </a>
 </p>
 
 ## Actualmente
