@@ -6,9 +6,7 @@
 </p>
 
 ## 🚀 Sobre Mi
-FullStack Developer con más de 1 año de experiencia en el desarrollo de aplicaciones web. He participado en la creación y mejora de diversas aplicaciones web, donde he puesto en práctica mis habilidades para implementar soluciones escalables y eficientes.
-
-Fuertes conocimientos en JavaScript | TypeScript | ReactJS | PHP | Laravel | NodeJS | NextJS | NestJS | SQL | NoSQL | MongoDB | GraphQL
++1 año de experiencia en el desarrollo de aplicaciones web. He participado en la creación y mejora de diversas aplicaciones web, donde he puesto en práctica mis habilidades para implementar soluciones escalables y eficientes.
 
 Siempre estoy en busca de nuevos retos y oportunidades para seguir aprendiendo y mejorando mis habilidades.
 
