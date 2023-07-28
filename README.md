@@ -8,7 +8,7 @@
 
 -  🌱 Actualmente estoy aprendiendo **Flutter y Qwik**
 
--  👨‍💻 Todos mis proyectos están disponibles en [https://www.juandevelop.com](https://www.juandevelop.com)
+-  👨‍💻 Todos mis proyectos están disponibles en [https://juandevelop.com](https://www.juandevelop.com)
 
 -  💬 Preguntame sobre **React, NestJs, NestJs**
 
