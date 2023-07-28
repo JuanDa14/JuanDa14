@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233)](https://rishavchanda.io)
 
 <h1 align="center">Hola 👋, Soy Juan Morales</h1>
 <h3 align="center">+1 año de experiencia en el desarrollo de aplicaciones web. He participado en la creación y mejora de diversas aplicaciones web, donde he puesto en práctica mis habilidades para implementar soluciones escalables y eficientes.</h3>
