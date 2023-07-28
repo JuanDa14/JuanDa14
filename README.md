@@ -10,7 +10,7 @@
 
 -  👨‍💻 Todos mis proyectos están disponibles en [https://juandevelop.com](https://www.juandevelop.com)
 
--  💬 Preguntame sobre **React, NestJs, NestJs**
+-  💬 Preguntame sobre **React, NextJs, NestJs**
 
 -  📫 Como llegar a mi **ju4ncode@gmail.com**
 
