@@ -1,119 +1,32 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-# Hola, Soy Juan! 👋
+<h1 align="center">Hola 👋, Soy Juan Morales</h1>
+<h3 align="center">+1 año de experiencia en el desarrollo de aplicaciones web. He participado en la creación y mejora de diversas aplicaciones web, donde he puesto en práctica mis habilidades para implementar soluciones escalables y eficientes.</h3>
+<img align="right" alt="Coder GIF" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-<p align="center" >
-<img alt="GIF" src="/public/perfil_git.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanda14&label=Profile%20views&color=0e75b6&style=flat" alt="juanda14" /> </p>
+
+-  🔭 Actualmente estoy trabajando en [FMSAC](https://www.fmsac.com/es/index.html)
+
+-  🌱 Actualmente estoy aprendiendo **Flutter y Qwik**
+
+-  👨‍💻 Todos mis proyectos están disponibles en [https://www.juandevelop.com](https://www.juandevelop.com)
+
+-  💬 Preguntame sobre **React, NestJs, NestJs**
+
+-  📫 Como llegar a mi **ju4ncode@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/juan david morales paredes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan david morales paredes" height="30" width="40" /></a>
+<a href="https://instagram.com/ju4ndevelop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ju4ndevelop" height="30" width="40" /></a>
 </p>
 
-## 🚀 Sobre Mi
-FullStack Developer con más de 1 año de experiencia en el desarrollo de aplicaciones web. He participado en la creación y mejora de diversas aplicaciones web, donde he puesto en práctica mis habilidades para implementar soluciones escalables y eficientes.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Fuertes conocimientos en JavaScript | TypeScript | ReactJS | PHP | Laravel | NodeJS | NextJS | NestJS | SQL | NoSQL | MongoDB | GraphQL
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanda14&show_icons=true&locale=en&layout=compact" alt="juanda14" /></p>
 
-Siempre estoy en busca de nuevos retos y oportunidades para seguir aprendiendo y mejorando mis habilidades.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanda14&show_icons=true&locale=en" alt="juanda14" /></p>
 
-## 🛠 Skills
-
-<h4>Frontend </h4>
-<p>
-  <a href='https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5'target="__blank">
-    <img src="https://img.shields.io/badge/html5-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'target="__blank">
-    <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href='https://sass-lang.com/' target="__blank">
-    <img src="https://img.shields.io/badge/sass-cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide' target="__blank">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href='https://www.typescriptlang.org/' target="__blank">
-    <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
-  &nbsp;
- <a href='https://www.react.org/' target="__blank">
-   <img src='https://img.shields.io/badge/react-61DAFB?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' />
- </a>
-  &nbsp;
-  <a href='https://redux.js.org/' target="__blank">
-    <img src='https://img.shields.io/badge/redux-764ABC?logoWidth=30&labelColor=black&style=for-the-badge&logo=redux' />
-  </a>
-  &nbsp;
-  <a href='https://nextjs.org/' target="__blank">
-    <img src="https://img.shields.io/badge/next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000" />
-  </a>
-  &nbsp;
-  <a href='https://tailwindcss.com/' target="__blank">
-    <img src='https://img.shields.io/badge/tailwind css-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge' />
-  </a>
-    &nbsp;
-  <a href='https://styled-components.com/' target="__blank">
-    <img src='https://img.shields.io/badge/styled%20components-38B2AC?logo=styled%20components&logoColor=white&style=for-the-badge&color=gray' />
-  </a>
-      &nbsp;
-  <a href='https://getbootstrap.com/' target="__blank">
-    <img src='https://img.shields.io/badge/Bootstrap-38B2AC?logo=styled%20components&logoColor=white&style=for-the-badge&color=blueviolet' />
-  </a>
-</p>
-
-<h4>Backend</h4>
-<p>
-  <a href='https://nodejs.org/en/about/' target="__blank">
-    <img src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge" />
-  </a>
-   &nbsp;
-  <a href='https://expressjs.com/' target="__blank">
-    <img src="https://img.shields.io/badge/Express-ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" />
-  </a> 
-   &nbsp;
-  <a href='https://www.php.net/' target="__blank">
-    <img src="https://img.shields.io/badge/PHP-38B2AC?logo=phps&logoColor=white&style=for-the-badge&color=gray" />
-  </a> 
-   &nbsp;
-  <a href='https://laravel.com/' target="__blank">
-    <img src="https://img.shields.io/badge/Laravel-38B2AC?logo=Laravel&logoColor=white&style=for-the-badge&color=red" />
-  </a> 
-    &nbsp;
-  <a href='https://graphql.org/' target="__blank">
-    <img src="https://img.shields.io/badge/GraphQL-38B2AC?logo=GraphQL&logoColor=white&style=for-the-badge&color=E535AB" />
-  </a> 
-  &nbsp;
-  <a href='https://nestjs.com/' target="__blank">
-    <img src="https://img.shields.io/badge/Nestjs-38B2AC?logo=Nestjs&logoColor=white&style=for-the-badge&color=E0234E" />
-  </a> 
-</p>
-
-<h4>Database</h4>
-<p>
-<a href='https://www.mongodb.com/' target="__blank">
-    <img src='https://img.shields.io/badge/mongo db-47A248?logo=mongodb&logoColor=white&style=for-the-badge' />
-  </a>
-  &nbsp;
-  <a href='https://www.mysql.com/' target="__blank">
-  <img src='https://img.shields.io/badge/-Mysql-4479A1?logo=Mysql&logoColor=white&style=for-the-badge'>
-  </a>
-   &nbsp;
-</p>
-
-## Actualmente
-👩‍💻 Trabajo como `Desarrollador de módulos` para la empresa FMSAC.
-
-🧠 Estoy siempre dispuesto a aprender nuevas tecnologías y a afrontar nuevos desafíos laborales que me permitan seguir creciendo profesionalmente.
-
-🤔 Me interesan los proyectos que involucren el desarrollo de software, la creación de aplicaciones web y móviles.
-
-📫 Contactame por mis redes sociales o correo electronico `ju4ncode@gmail.com`
-
-⚡️ Dato curioso, Aprendiendo Docker 😎
-
-
-## 🔗 Links
-[![portafolio](https://img.shields.io/badge/mi_portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juandevelop.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-morales-paredes-617342224/)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ju4ndevelop/)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanda14&" alt="juanda14" /></p>
