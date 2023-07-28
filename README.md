@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola 👋, Soy Juan Morales</h1>
 <h3 align="center">+1 año de experiencia en el desarrollo de aplicaciones web. He participado en la creación y mejora de diversas aplicaciones web, donde he puesto en práctica mis habilidades para implementar soluciones escalables y eficientes.</h3>
-<img align="right" alt="Coder GIF" width="400" src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media" />
+<img align="right" alt="Coder GIF" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanda14&label=Profile%20views&color=0e75b6&style=flat" alt="juanda14" /> </p>
 
