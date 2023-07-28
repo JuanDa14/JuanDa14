@@ -8,7 +8,10 @@
 ## 🚀 Sobre Mi
 +1 año de experiencia en el desarrollo de aplicaciones web. He participado en la creación y mejora de diversas aplicaciones web, donde he puesto en práctica mis habilidades para implementar soluciones escalables y eficientes.
 
-Siempre estoy en busca de nuevos retos y oportunidades para seguir aprendiendo y mejorando mis habilidades.
+## 🔗 Links
+[![portafolio](https://img.shields.io/badge/mi_portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juandevelop.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-morales-paredes-617342224/)
+[![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ju4ncode@gmail.com)
 
 ## 🛠 Skills
 
@@ -112,10 +115,6 @@ Siempre estoy en busca de nuevos retos y oportunidades para seguir aprendiendo y
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDa14&locale=es" alt="juanda14" /></p>
 
-## 🔗 Links
-[![portafolio](https://img.shields.io/badge/mi_portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juandevelop.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-morales-paredes-617342224/)
-[![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ju4ncode@gmail.com)
 
 
 
