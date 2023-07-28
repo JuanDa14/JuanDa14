@@ -106,11 +106,11 @@ Siempre estoy en busca de nuevos retos y oportunidades para seguir aprendiendo y
 
 📫 Contactame por mis redes sociales o correo electronico `ju4ncode@gmail.com`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanda14&show_icons=true&locale=en&layout=compact" alt="juanda14" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanDa14&show_icons=true&locale=es&layout=compact" alt="juanda14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanda14&show_icons=true&locale=en" alt="juanda14" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDa14&show_icons=true&locale=es" alt="juanda14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanda14&" alt="juanda14" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDa14&locale=es" alt="juanda14" /></p>
 
 ## 🔗 Links
 [![portafolio](https://img.shields.io/badge/mi_portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juandevelop.com)
