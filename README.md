@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanda14&label=Visitas%20&color=0e75b6&style=flat&locale=es" alt="juanda14" /> </p>
 
--  🔭 Actualmente estoy trabajando en [FMSAC](https://www.fmsac.com/es/index.html)
-
 -  🌱 Actualmente estoy aprendiendo **Flutter y Qwik**
 
 -  👨‍💻 Todos mis proyectos están disponibles en [https://juandevelop.com](https://www.juandevelop.com)
