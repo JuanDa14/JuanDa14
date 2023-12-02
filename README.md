@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Juan Morales]
+# ¡Hola! 👋 Soy Juan Morales
 
 ## Actualmente Aprendiendo
 
