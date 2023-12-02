@@ -1,4 +1,4 @@
-<span align="center">👋</span>
+<p align="center">👋</p>
 <h1 align="center">Soy Juan Morales</h1>
 
 -  Estoy aprendiendo **Flutter y Qwik** :3
