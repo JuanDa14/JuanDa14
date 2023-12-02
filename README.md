@@ -1,16 +1,12 @@
 <h1 align="center">Hola 👋, Soy Juan Morales</h1>
-<h3 align="center">+1 año de experiencia en desarrollo. He participado en la creación y mejora de diversas aplicaciones web, donde he puesto en práctica mis habilidades para implementar soluciones escalables y eficientes.</h3>
-<img align="right" alt="Coder GIF" width="400" src="/public/perfil_git.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanda14&label=Visitas%20&color=0e75b6&style=flat&locale=es" alt="juanda14" /> </p>
 
--  🌱 Actualmente estoy aprendiendo **Flutter y Qwik**
+-  Estoy aprendiendo **Flutter y Qwik** :3
 
--  👨‍💻 Todos mis proyectos están disponibles en [https://juandevelop.com](https://www.juandevelop.com)
+-  Visita mi sitio web [https://juandevelop.com](https://www.juandevelop.com)
 
--  💬 Preguntame sobre **React, NextJs, NestJs**
-
--  📫 Como llegar a mi **ju4ncode@gmail.com**
+-  Cuéntame algo en **ju4ncode@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
