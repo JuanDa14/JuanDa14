@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, Soy Juan Morales</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanda14&label=Visitas%20&color=0e75b6&style=flat&locale=es" alt="juanda14" /> </p>
-
 -  Estoy aprendiendo **Flutter y Qwik** :3
 
 -  Visita mi sitio web [https://juandevelop.com](https://www.juandevelop.com)
