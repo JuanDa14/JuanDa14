@@ -8,7 +8,7 @@
 
 ## Contáctame
 
-- [https://juandevelop.com](https://www.juandevelop.com)
+- [https://juandevelop.vercel.app](https://juandevelop.vercel.app)
 - [ju4ncode@gmail.com](mailto:ju4ncode@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/juan-david-morales-paredes-617342224)
 
